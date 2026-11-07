@@ -1,0 +1,13 @@
+{
+  "name": "unslop-fr",
+  "description": "Garde-fou d'écriture contre les tics des textes générés par IA, en français : mots, rythme et structure, quatre modes, profils de registre.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Monsieur Akhir",
+    "url": "https://github.com/monsieur-akhir"
+  },
+  "homepage": "https://github.com/monsieur-akhir/unslop-fr",
+  "repository": "https://github.com/monsieur-akhir/unslop-fr",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "french", "francais", "style", "ai-slop", "prose", "content"]
+}

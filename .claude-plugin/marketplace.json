@@ -1,0 +1,29 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "unslop-fr",
+  "owner": {
+    "name": "Monsieur Akhir",
+    "url": "https://github.com/monsieur-akhir"
+  },
+  "description": "Skill de relecture contre les tics des textes générés par IA, en français.",
+  "version": "1.0.1",
+  "plugins": [
+    {
+      "name": "unslop-fr",
+      "displayName": "unslop-fr",
+      "description": "Garde-fou d'écriture contre les tics des textes générés par IA, en français. Trois niveaux (vocabulaire, rythme des phrases, structure du texte), quatre modes (écriture, vérification, réécriture, édition de fichier) et une sévérité réglée par registre. Adapté de unslop de Jean-Luc Winkler.",
+      "version": "1.0.1",
+      "source": "./",
+      "author": {
+        "name": "Monsieur Akhir",
+        "url": "https://github.com/monsieur-akhir"
+      },
+      "homepage": "https://github.com/monsieur-akhir/unslop-fr",
+      "repository": "https://github.com/monsieur-akhir/unslop-fr",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["writing", "editing", "french", "francais", "style", "ai-slop", "prose", "content"],
+      "tags": ["writing", "content", "french", "quality"]
+    }
+  ]
+}
