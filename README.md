@@ -76,6 +76,10 @@ skills/unslop-fr/
 
 Les cas de `skills/unslop-fr/evals/cas.md` se passent en mode vérification après chaque modification. Trois d'entre eux doivent rester propres (un courriel ordinaire, un paragraphe aux signaux faibles isolés, une clause de marché public) : signaler trop est aussi une régression. Pour un résultat non biaisé, les faire passer par un agent qui ne voit pas les constats attendus.
 
+## Confidentialité
+
+Le plugin ne contient que du Markdown : il n'envoie et ne conserve aucune donnée. Voir `PRIVACY.md`.
+
 ## Licence
 
 MIT. Copyright (c) 2026 Jean-Luc Winkler pour unslop, dont ce skill est dérivé ; adaptation française par Monsieur Akhir. Voir `LICENSE`.
